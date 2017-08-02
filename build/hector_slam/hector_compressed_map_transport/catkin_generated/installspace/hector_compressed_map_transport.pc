@@ -1,0 +1,8 @@
+prefix=/home/cflie/crazyflie_ws/install
+
+Name: hector_compressed_map_transport
+Description: Description of hector_compressed_map_transport
+Version: 0.3.5
+Cflags: 
+Libs: -L/home/cflie/crazyflie_ws/install/lib 
+Requires: 

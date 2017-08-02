@@ -1,0 +1,8 @@
+prefix=/home/cflie/crazyflie_ws/install
+
+Name: hector_map_tools
+Description: Description of hector_map_tools
+Version: 0.3.5
+Cflags: -I/home/cflie/crazyflie_ws/install/include
+Libs: -L/home/cflie/crazyflie_ws/install/lib 
+Requires: nav_msgs
